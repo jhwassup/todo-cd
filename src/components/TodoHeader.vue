@@ -6,6 +6,6 @@
 
 <style scoped>
 h1 {
-	color: rgb(173, 230, 177);
+	color: rgb(230, 200, 173);
 }
 </style>
